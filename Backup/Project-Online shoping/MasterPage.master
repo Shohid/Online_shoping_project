@@ -1,0 +1,187 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>E-Commerce</title>
+    <link href="StyleSheet/TabStyle.css" rel="Stylesheet" runat="server" />
+</head>
+<body>
+<form id="form_m" runat="server">
+   <table width="950" align="center"  cellspacing="5" >
+    <tr>
+        <td  height="70" colspan="3" background="images/hadder_background.gif" valign="top">
+        <table>
+            <tr>
+                <td height="70"><font color="Orange"> <h1>OnLine Shopping</h1></font></td>
+                <td><input type="image" src="images/banner.gif" /></td>
+                <td></td>
+                <td></td>
+            </tr>
+        </table>
+        </td>
+    </tr>
+    <tr><td colspan="3" style="height: 10px">
+    
+        </td></tr>
+    <tr>
+        <td  colspan="3" background="images/border_silver.gif" align="right" style="height: 21px">
+        <a href="Default.aspx"><font color="#333399"> Home</font></a> | 
+        <a href="Default.aspx"><font color="#333399"> Enquiry Us</font></a> | 
+        <a href="Default.aspx"><font color="#333399"> Terms &amp; Conditions</font></a> | 
+        <a href="SiteMap.aspx"><font color="#333399"> Site Map</font></a>
+        </td>
+    </tr>
+    <tr><td  colspan="3" valign="middle">
+        <asp:SiteMapPath ID="SiteMapPath1" runat="server" Font-Names="Verdana" Font-Size="0.8em"
+            PathSeparator=" : ">
+            <PathSeparatorStyle Font-Bold="True" ForeColor="#990000" />
+            <CurrentNodeStyle ForeColor="#333333" />
+            <NodeStyle Font-Bold="True" ForeColor="#990000" />
+            <RootNodeStyle Font-Bold="True" ForeColor="#FF8000" />
+        </asp:SiteMapPath>
+        <table align="right"><tr><td>Search Product</td><td align="center">
+        
+        <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox></td>
+        <td>
+        <asp:ImageButton ID="ImageButton1" runat="server" ImageUrl="~/images/go.gif" OnClick="ImageButton1_Click" />
+        </td></tr></table>
+        
+        
+    </td></tr>
+    <tr>
+        <td height="500" width="200" valign="top">
+            <table cellspacing="0">
+                <tr>
+                    <td width="14" height="30" background="images/left.gif"></td>
+                    <td width="162" height="30" align="center" background="images/center.gif">
+                    <b>Category</b>
+                    </td>
+                    <td width="14" height="30" background="images/right.gif"></td>
+                </tr>
+            </table> 
+                <table border="1" align="center" bordercolor="#ffcc33" style="border-collapse:collapse;"><tr><td>
+                        <asp:TreeView ID="TreeView1" runat="server" NodeIndent="10" Width="180px">
+                        </asp:TreeView>
+                    </td></tr>
+                </table>
+                    
+            <br />
+            <br />
+             <table cellspacing="0">
+                <tr>
+                    <td width="14" height="30" background="images/left.gif"></td>
+                    <td width="162" height="30" background="images/center.gif" align="center">
+                        <strong><span>Brand</span></strong>
+                    </td>
+                    <td width="14" height="30" background="images/right.gif"></td>
+                </tr>
+            </table>
+            <table border="1" align="center" bordercolor="#ffcc33" style="border-collapse:collapse;" width="180">
+            <tr><td colspan="2">
+            <table><tr><td>
+            <b> Select Brand</b></td></tr>
+            <tr><td height="50">
+                <asp:DropDownList ID="DropDownList1" runat="server" DataSourceID="AccessDataSource1"
+                    DataTextField="Brand" DataValueField="Brand" Width="150px">
+                </asp:DropDownList></td>
+                <td><asp:ImageButton ID="ibtn" runat="server" ImageUrl="~/images/go.gif" OnClick="ibtn_Click" /></td></tr></table></td></tr>
+                <asp:AccessDataSource ID="AccessDataSource1" runat="server" DataFile="~/App_Data/shopping_master.mdb"
+                    SelectCommand="SELECT distinct [Brand] FROM [Product_Master]"></asp:AccessDataSource>
+                       
+                    
+                </table>
+                
+            <br />
+            <br />
+            
+        </td>
+        <td height="500" width="550" valign="top">
+            <asp:ContentPlaceHolder ID="conpl_master" runat="server">
+            </asp:ContentPlaceHolder>
+        </td>
+        <td height="500" valign="top" style="width: 188px"> 
+         <table cellspacing="0">
+                <tr>
+                    <td width="14" height="30" background="images/left.gif"></td>
+                    <td width="162" height="30" background="images/center.gif">
+                        <strong>Shopping Cart</strong></td>
+                    <td width="14" height="30" background="images/right.gif"></td>
+                </tr>
+            </table>
+             <table border="1" align="center" bordercolor="#ffcc33" style="border-collapse:collapse;" width="180">
+            <tr><td colspan="2">
+                <br />
+            <table>
+            <tr><td width="125">
+                <strong>
+                Total Items :</strong></td><td width="75"> <asp:Label ID="lbl_tot_items" runat="server"></asp:Label></td></tr>
+                <tr><td width="125">
+                    <strong>Total Price :</strong></td><td width="75"> <asp:Label ID="lbl_tot_price" runat="server"></asp:Label></td></tr>
+                <tr><td height="50" style="width: 3px"></td><td style="width: 3px"><a href="Cart.aspx"><asp:Image ID="imaga" runat="server" ImageUrl="~/images/cart.jpg"  /></a> </td>
+                </tr>
+            </table>        
+            </table> 
+            <br />
+            <br />
+             <table cellspacing="0">
+                <tr>
+                    <td width="14" height="30" background="images/left.gif"></td>
+                    <td width="162" height="30" background="images/center.gif">
+                        <strong>Advertisement</strong></td>
+                    <td width="14" height="30" background="images/right.gif"></td>
+                </tr>
+            </table>
+             <table border="1" align="center" bordercolor="#ffcc33" style="border-collapse:collapse;" width="180">
+            <tr><td colspan="2">
+            <table align="center">
+                <tr><td style="width: 3px; height: 21px;"></td></tr>
+                <tr><td style="width: 3px; height: 50px;">
+                    <asp:AdRotator ID="AdRotator4" runat="server" DataSourceID="XmlDataSource4" />
+                    <asp:XmlDataSource ID="XmlDataSource4" runat="server" DataFile="~/XMLFile3.xml"></asp:XmlDataSource>
+                    &nbsp;
+                    &nbsp;&nbsp;
+                </td>
+                </tr>
+            </table>        
+            </table>     
+            <br />
+            <br />
+            <br />
+            <br />
+            </td>
+    </tr>
+    <tr>
+        <td colspan="3" background="images/border_silver.gif" align="center">
+        <a href="Default.aspx"><font color="#333399"> Home</font></a> |<a href="Default.aspx"></a> 
+        <a href="Default.aspx"><font color="#333399"> Enquiry Us</font></a> | 
+        <a href="Default.aspx"><font color="#333399"> Terms &amp; Conditions</font></a> | 
+        <a href="SiteMap.aspx"><font color="#333399"> Site Map</font></a>
+        </td>
+    </tr>
+    
+   </table>
+   <table align="center" width="950" border="1" bordercolor="#ffcc33" style="border-collapse:collapse;">
+    <tr>
+        <td height="100" width="316" align="center">
+            <asp:AdRotator ID="AdRotator1" runat="server" DataSourceID="XmlDataSource1" />
+            <asp:XmlDataSource ID="XmlDataSource1" runat="server" DataFile="~/Advertisement/Advertisement.xml">
+            </asp:XmlDataSource>
+        </td>
+        <td height="100" width="316" align="center">
+            <asp:AdRotator ID="AdRotator2" runat="server" DataSourceID="XmlDataSource2" />
+            <asp:XmlDataSource ID="XmlDataSource2" runat="server" DataFile="~/Advertisement/Advertisement.xml">
+            </asp:XmlDataSource>
+        </td>
+        <td height="100" width="316" align="center">
+            <asp:AdRotator ID="AdRotator3" runat="server" DataSourceID="XmlDataSource3" />
+            <asp:XmlDataSource ID="XmlDataSource3" runat="server" DataFile="~/Advertisement/Advertisement.xml">
+            </asp:XmlDataSource>
+        </td>
+    </tr>
+   </table>
+</form>
+</body>
+
+</html>

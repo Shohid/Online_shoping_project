@@ -1,0 +1,50 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterAdmin.master.cs" Inherits="MasterAdmin" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>Untitled Page</title>
+</head>
+<body>
+<form id="form_mas" runat="server">
+   <table width="800" align="center"> 
+    
+    <tr>
+    <td  colspan="3" background="images/border_silver.gif" align="right">
+        <a href="Default.aspx"><font color="#333399"> Home</font></a> |
+        <a href="insertData.aspx"><font color="#333399"> Insert Data</font></a> | 
+        <a href="UserData.aspx"><font color="#333399">User Detail</font></a> | 
+        <a href="Orders.aspx"><font color="#333399"> Order Detail</font></a> | 
+        <a href="viewData.aspx"><font color="#333399"> View Product</font></a> | 
+        <a href="BulkEmail.aspx"><font color="#333399"> Email To Customer</font></a> |
+        <a href="SiteMap.aspx"><font color="#333399"> Site Map</font></a>
+     </td>
+        
+</tr>
+    <tr><td height="500" valign="top">
+    <table cellspacing="0" align="center">
+                <tr>
+                    <td width="14" height="30" background="images/left.gif"></td>
+                    <td width="780" height="30" align="center" background="images/center.gif">
+                    <b>Administer</b>
+                    </td>
+                    <td width="14" height="30" background="images/right.gif"></td>
+                </tr>
+            </table>
+            <br />
+        &nbsp;
+        <br />
+            <table width="800" border="1" align="center" bordercolor="#ffcc33" style="border-collapse:collapse;"><tr><td>
+                       <br /><br /> <asp:ContentPlaceHolder ID="conpl_adminmaster" runat="server">
+        </asp:ContentPlaceHolder><br /><br />
+                    </td></tr>
+                </table>
+            
+        
+    </td></tr>
+    <tr><td height="100"></td></tr>
+    </table>
+    </form>
+</body>
+</html>

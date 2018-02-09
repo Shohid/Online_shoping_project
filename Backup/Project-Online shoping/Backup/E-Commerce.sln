@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "D:\E-Commerce\", ".", "{ADF99B31-F17E-4696-99BE-8935EAE3671D}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/E-Commerce"
+		Debug.AspNetCompiler.PhysicalPath = "D:\E-Commerce\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\E-Commerce\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/E-Commerce"
+		Release.AspNetCompiler.PhysicalPath = "D:\E-Commerce\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\E-Commerce\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "3149"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADF99B31-F17E-4696-99BE-8935EAE3671D}.Debug|.NET.ActiveCfg = Debug|.NET
+		{ADF99B31-F17E-4696-99BE-8935EAE3671D}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

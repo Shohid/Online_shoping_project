@@ -1,0 +1,247 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+    <title>Untitled Page</title>
+</head>
+<body>
+    <table cellspacing="0">
+        <tr>
+            <th rowspan="3" scope="row">
+                General</th>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_ntype.htm');">Network</a></td>
+            <td class="nfo">
+                UMTS / GSM 850 / 900 / 1800 / 1900</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_year.htm');">Announced</a></td>
+            <td class="nfo">
+                2006, April</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_status.htm');">Status</a></td>
+            <td class="nfo">
+                Available</td>
+        </tr>
+        <tr>
+            <th rowspan="2" scope="row">
+                Size</th>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_dimens.htm');">Dimensions</a></td>
+            <td class="nfo">
+                110 x 49 x 19 mm</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_weight.htm');">Weight</a></td>
+            <td class="nfo">
+                116 g</td>
+        </tr>
+        <tr>
+            <th rowspan="3" scope="row">
+                Display</th>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_dtype.htm');">Type</a></td>
+            <td class="nfo">
+                TFT, 256K colors</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_dsize.htm');">Size</a></td>
+            <td class="nfo">
+                240 x 320 pixels, 36 x 48 mm</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                &nbsp;</td>
+            <td class="nfo">
+                - Downloadable themes<br />
+                - Light sensor</td>
+        </tr>
+        <tr>
+            <th rowspan="4" scope="row">
+                Ringtones</th>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_ringtype.htm');">Type</a></td>
+            <td class="nfo">
+                Polyphonic (64 channels), MP3</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_ringcustom.htm');">Customization</a></td>
+            <td class="nfo">
+                Download</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_vibrat.htm');">Vibration</a>
+            </td>
+            <td class="nfo">
+                Yes</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                &nbsp;</td>
+            <td class="nfo">
+                - 3D sound stereo speakers</td>
+        </tr>
+        <tr>
+            <th rowspan="4" scope="row">
+                Memory</th>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_number.htm');">Phonebook</a></td>
+            <td class="nfo">
+                Practically unlimited entries and fields, Photocall</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_callr.htm');">Call records</a></td>
+            <td class="nfo">
+                Detailed, max 30 days</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_cslot.htm');">Card slot</a></td>
+            <td class="nfo">
+                miniSD, hot swap</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                &nbsp;</td>
+            <td class="nfo">
+                - 42 MB shared memory</td>
+        </tr>
+        <tr>
+            <th rowspan="8" scope="row">
+                Data</th>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_gprs.htm');">GPRS</a></td>
+            <td class="nfo">
+                Class 10 (4+1/3+2 slots), 32 - 48 kbps</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_hscsd.htm');">HSCSD</a></td>
+            <td class="nfo">
+                Yes</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_edge.htm');">EDGE</a></td>
+            <td class="nfo">
+                Class 11, 236.8 kbps</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_3g.htm');">3G</a></td>
+            <td class="nfo">
+                Yes, 384 kbps</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_wlan.htm');">WLAN</a></td>
+            <td class="nfo">
+                No</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_bluetooth.htm');">Bluetooth</a></td>
+            <td class="nfo">
+                Yes, v2.0</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_infrar.htm');">Infrared port</a></td>
+            <td class="nfo">
+                Yes</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_usb.htm');">USB</a></td>
+            <td class="nfo">
+                Yes, v2.0, Pop-Port</td>
+        </tr>
+        <tr>
+            <th rowspan="9" scope="row">
+                Features</th>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_os.htm');">OS</a></td>
+            <td class="nfo">
+                Symbian OS 9.1, S60 3rd edition</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_messg.htm');">Messaging</a></td>
+            <td class="nfo">
+                SMS, MMS, Email, Instant Messaging</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_browser.htm');">Browser</a></td>
+            <td class="nfo">
+                WAP 2.0/xHTML, HTML</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_games.htm');">Games</a></td>
+            <td class="nfo">
+                Yes + Java downloadable</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_colors.htm');">Colors</a></td>
+            <td class="nfo">
+                Silver Grey/Deep Plum, Frost White/Metallic Red, Black (Music Edition)</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_camera.htm');">Camera</a></td>
+            <td class="nfo">
+                3.15 MP, 2048x1536 pixels, Carl Zeiss optics, autofocus, video(CIF), flash; secondary
+                VGA video call camera</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                &nbsp;</td>
+            <td class="nfo">
+                - Java MIDP 2.0<br />
+                - Push to talk<br />
+                - Video calling and download<br />
+                - MP3/AAC/MPEG4 player<br />
+                - T9<br />
+                - Stereo FM radio<br />
+                - Voice command/dial<br />
+                - PIM including calendar, to-do list and printing<br />
+                - Document viewer<br />
+                - Photo/video editor<br />
+                - Integrated handsfree
+            </td>
+        </tr>
+    </table>
+    <table cellspacing="0">
+        <tr>
+            <th rowspan="3" scope="row">
+                Battery</th>
+            <td class="ttl">
+                &nbsp;</td>
+            <td class="nfo">
+                Standard battery, Li-Ion 1100 mAh (BP-6M )</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_standb.htm');">Stand-by</a></td>
+            <td class="nfo">
+                Up to 350 h</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_talkta.htm');">Talk time</a></td>
+            <td class="nfo">
+                Up to 6 h</td>
+        </tr>
+    </table>
+
+</body>
+</html>

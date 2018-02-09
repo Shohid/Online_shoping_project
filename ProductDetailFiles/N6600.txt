@@ -1,0 +1,234 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+    <title>Untitled Page</title>
+</head>
+<body>
+    <br />
+    <table border="1" cellspacing="0" wdith="100%">
+        <tr>
+            <th rowspan="3" scope="row">
+                General</th>
+            <td class="ttl">
+                Network</td>
+            <td class="nfo">
+                HSDPA / GSM 850 / 900 / 1800 / 1900</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                Announced</td>
+            <td class="nfo">
+                2006, September</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                Status</td>
+            <td class="nfo">
+                Available</td>
+        </tr>
+        <tr>
+            <th rowspan="2" scope="row">
+                Size</th>
+            <td class="ttl">
+                Dimensions</td>
+            <td class="nfo">
+                99 x 53 x 21 mm, 90 cc</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                Weight</td>
+            <td class="nfo">
+                120 g</td>
+        </tr>
+        <tr>
+            <th rowspan="2" scope="row">
+                Display</th>
+            <td class="ttl">
+                Type</td>
+            <td class="nfo">
+                TFT, 16M colors</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                Size</td>
+            <td class="nfo">
+                240 x 320 pixels, 2.6 inches</td>
+        </tr>
+        <tr>
+            <th rowspan="3" scope="row">
+                Ringtones</th>
+            <td class="ttl">
+                Type</td>
+            <td class="nfo">
+                Polyphonic (64 channels), Monophonic, True Tones, MP3</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                Customization</td>
+            <td class="nfo">
+                Download</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                Vibration</td>
+            <td class="nfo">
+                Yes</td>
+        </tr>
+        <tr>
+            <th rowspan="4" scope="row">
+                Memory</th>
+            <td class="ttl">
+                Phonebook</td>
+            <td class="nfo">
+                Yes</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                Call records</td>
+            <td class="nfo">
+                Yes</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                Card slot</td>
+            <td class="nfo">
+                microSD (up to 2GB), hot swap, 128 MB card included</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                &nbsp;</td>
+            <td class="nfo">
+                - 160 MB internal memory</td>
+        </tr>
+        <tr>
+            <th rowspan="8" scope="row">
+                Data</th>
+            <td class="ttl">
+                GPRS</td>
+            <td class="nfo">
+                Class 10 (4+1/3+2 slots), 32 - 48 kbps</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                HSCSD</td>
+            <td class="nfo">
+                No</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                EDGE</td>
+            <td class="nfo">
+                Class 32, 296 kbps; DTM Class 11, 236.8 kbps</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                3G</td>
+            <td class="nfo">
+                HSDPA</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                WLAN</td>
+            <td class="nfo">
+                Wi-Fi 802.11 b/g, UPnP technology</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                Bluetooth</td>
+            <td class="nfo">
+                Yes, v2.0, A2DP</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                Infrared port</td>
+            <td class="nfo">
+                Yes</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                USB</td>
+            <td class="nfo">
+                Yes, v2.0, Pop-Port</td>
+        </tr>
+        <tr>
+            <th rowspan="9" scope="row">
+                Features</th>
+            <td class="ttl">
+                OS</td>
+            <td class="nfo">
+                Symbian OS 9.2, S60 rel. 3.0</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                Messaging</td>
+            <td class="nfo">
+                SMS, MMS, Email, Instant Messaging</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                Browser</td>
+            <td class="nfo">
+                WAP 2.0/xHTML, HTML</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                Games</td>
+            <td class="nfo">
+                Downloadable</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                Colors</td>
+            <td class="nfo">
+                Silver</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                Camera</td>
+            <td class="nfo">
+                5 MP, 2592 x 1944 pixels, Carl Zeiss optics, autofocus, video(VGA 30fps), flash;
+                secondary CIF videocall camera</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                &nbsp;</td>
+            <td class="nfo">
+                - Built-in GPS navigation<br />
+                - Installed Maps application covering over 100 countries<br />
+                - Dual slide design<br />
+                - Java MIDP 2.0<br />
+                - MP3/AAC/AAC+/eAAC+/WMA player<br />
+                - 3.5 mm audio output jack<br />
+                - Stereo FM Radio<br />
+                - Organiser<br />
+                - Office document viewer<br />
+                - T9<br />
+                - Push to talk
+                <br />
+                - Voice dial/memo<br />
+                - Built-in handsfree</td>
+        </tr>
+        <tr>
+            <th rowspan="3" scope="row">
+                Battery</th>
+            <td class="ttl">
+                Standard battery, Li-Ion 950 mAh (BL-5F)</td>
+            <td class="nfo">
+                &nbsp;</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                Stand-by - Up to 220 h</td>
+            <td class="nfo">
+                &nbsp;</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                &nbsp;</td>
+            <td class="nfo">
+                Talk time - Up to 6 h 30 min</td>
+        </tr>
+    </table>
+
+</body>
+</html>

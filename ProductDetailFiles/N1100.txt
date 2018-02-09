@@ -1,0 +1,236 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+    <title>Untitled Page</title>
+</head>
+<body>
+    <table cellspacing="0">
+        <tr>
+            <th rowspan="3" scope="row">
+                General</th>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_ntype.htm');">Network</a></td>
+            <td class="nfo">
+                GSM 900 / GSM 1800</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_year.htm');">Announced</a></td>
+            <td class="nfo">
+                2005, June</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_status.htm');">Status</a></td>
+            <td class="nfo">
+                Available</td>
+        </tr>
+        <tr>
+            <th rowspan="2" scope="row">
+                Size</th>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_dimens.htm');">Dimensions</a></td>
+            <td class="nfo">
+                104 x 44 x 17 mm</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_weight.htm');">Weight</a></td>
+            <td class="nfo">
+                80 g</td>
+        </tr>
+        <tr>
+            <th rowspan="3" scope="row">
+                Display</th>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_dtype.htm');">Type</a></td>
+            <td class="nfo">
+                Monochrome graphic</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_dsize.htm');">Size</a></td>
+            <td class="nfo">
+                96 x 68 pixels</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                &nbsp;</td>
+            <td class="nfo">
+                - 4-way scroll key<br />
+                - Animated screensavers</td>
+        </tr>
+        <tr>
+            <th rowspan="3" scope="row">
+                Ringtones</th>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_ringtype.htm');">Type</a></td>
+            <td class="nfo">
+                Polyphonic (20 channels), with MP3 grade tones</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_ringcustom.htm');">Customization</a></td>
+            <td class="nfo">
+                Composer</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_vibrat.htm');">Vibration</a>
+            </td>
+            <td class="nfo">
+                Yes</td>
+        </tr>
+        <tr>
+            <th rowspan="4" scope="row">
+                Memory</th>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_number.htm');">Phonebook</a></td>
+            <td class="nfo">
+                200 entries</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_callr.htm');">Call records</a></td>
+            <td class="nfo">
+                10 dialed, 10 received, 10 missed calls</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_cslot.htm');">Card slot</a></td>
+            <td class="nfo">
+                No</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                &nbsp;</td>
+            <td class="nfo">
+                - Up to 4 MB</td>
+        </tr>
+        <tr>
+            <th rowspan="8" scope="row">
+                Data</th>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_gprs.htm');">GPRS</a></td>
+            <td class="nfo">
+                No</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_hscsd.htm');">HSCSD</a></td>
+            <td class="nfo">
+                No</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_edge.htm');">EDGE</a></td>
+            <td class="nfo">
+                No</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_3g.htm');">3G</a></td>
+            <td class="nfo">
+                No</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_wlan.htm');">WLAN</a></td>
+            <td class="nfo">
+                No</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_bluetooth.htm');">Bluetooth</a></td>
+            <td class="nfo">
+                No</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_infrar.htm');">Infrared port</a></td>
+            <td class="nfo">
+                No</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_usb.htm');">USB</a></td>
+            <td class="nfo">
+                &nbsp;</td>
+        </tr>
+        <tr>
+            <th rowspan="9" scope="row">
+                Features</th>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_messg.htm');">Messaging</a></td>
+            <td class="nfo">
+                SMS, Instant Messaging</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_browser.htm');">Browser</a></td>
+            <td class="nfo">
+                &nbsp;</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_games.htm');">Games</a></td>
+            <td class="nfo">
+                3 - Snake Xenzia, Dice Games, Pocket Carrom</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_colors.htm');">Colors</a></td>
+            <td class="nfo">
+                Xpress-on covers</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_langua.htm');">Languages</a></td>
+            <td class="nfo">
+                Most major European and Asian</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_camera.htm');">Camera</a></td>
+            <td class="nfo">
+                No</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                &nbsp;</td>
+            <td class="nfo">
+                - T9<br />
+                - Built-in handsfree<br />
+                - Changeable Xpress-on covers<br />
+                - Picture messaging<br />
+                - Speaking alarm and clock<br />
+                - Reminders
+                <br />
+                - Demo mode for phone</td>
+        </tr>
+    </table>
+    <table cellspacing="0">
+        <tr>
+            <th rowspan="3" scope="row">
+                Battery</th>
+            <td class="ttl">
+                &nbsp;</td>
+            <td class="nfo">
+                Standard battery, Li-Ion (BL-5C) 900 mAh</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_standb.htm');">Stand-by</a></td>
+            <td class="nfo">
+                Up to 380 h</td>
+        </tr>
+        <tr>
+            <td class="ttl">
+                <a href="http://www.telepk.com/#" onclick="helpW('h_talkta.htm');">Talk time</a></td>
+            <td class="nfo">
+                Up to 5 h 20 min</td>
+        </tr>
+    </table>
+
+</body>
+</html>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <!-- Banner Advertisements -->
+  <Ad>
+    <ImageUrl>~/Images/Small/2.gif</ImageUrl>
+    <AlternateText>Banner Advertisement 1</AlternateText>
+    <Impressions>16</Impressions>
+    <Keyword>banner</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/Small/3.gif</ImageUrl>
+    <AlternateText>Banner Advertisement 2</AlternateText>
+    <Impressions>14</Impressions>
+    <Keyword>banner</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/Small/4.gif</ImageUrl>
+    <AlternateText>Banner Advertisement 3</AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>banner</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/Small/5.gif</ImageUrl>
+    <AlternateText>Banner Advertisement 4</AlternateText>
+    <Impressions>15</Impressions>
+    <Keyword>banner</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/Small/6.gif</ImageUrl>
+    <AlternateText>Banner Advertisement 5</AlternateText>
+    <Impressions>6</Impressions>
+    <Keyword>banner</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/Small/7.jpg</ImageUrl>
+    <AlternateText>Banner Advertisement 6</AlternateText>
+    <Impressions>50</Impressions>
+    <Keyword>banner</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/Small/8.jpg</ImageUrl>
+    <AlternateText>Banner Advertisement 7</AlternateText>
+    <Impressions>10</Impressions>
+    <Keyword>banner</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/Small/9.jpg</ImageUrl>
+    <AlternateText>Banner Advertisement 8</AlternateText>
+    <Impressions>2</Impressions>
+    <Keyword>banner</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/Small/10.jpg</ImageUrl>
+    <AlternateText>Banner Advertisement 9</AlternateText>
+    <Impressions>22</Impressions>
+    <Keyword>banner</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/Small/11.jpg</ImageUrl>
+    <AlternateText>Banner Advertisement 10</AlternateText>
+    <Impressions>4</Impressions>
+    <Keyword>banner</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/Small/12.jpg</ImageUrl>
+    <AlternateText>Banner Advertisement 11</AlternateText>
+    <Impressions>50</Impressions>
+    <Keyword>banner</Keyword>
+  </Ad>
+
+</Advertisements>
